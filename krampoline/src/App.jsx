@@ -8,7 +8,7 @@ import './App.css'
 export default function App() {
   return (
     <div>
-      <h1>React + VITE Example + vivi 화이팅!</h1>
+      <h1>모두가 개발자가 된다!</h1>
 
       {/* Routes nest inside one another. Nested route paths build upon
             parent route paths, and nested route elements render inside
